@@ -31,7 +31,7 @@ That starts:
 
 Redis is used both as:
 
-- a database (in-memtory message history)
+- a database (in-memory message history)
 - and a message bus
 
 ## Redis usage
